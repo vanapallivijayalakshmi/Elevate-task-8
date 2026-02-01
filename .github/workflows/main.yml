@@ -9,4 +9,4 @@ jobs:
 
     steps:
       - name: Print message
-        run: echo "CI pipeline working"
+        run: exit 1
